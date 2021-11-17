@@ -1,6 +1,5 @@
 ## Hello folks! Sid Here,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://raw.githubusercontent.com/Siddarth2709/Siddarth2709/main/fab-lentz-mRMQwK513hY-unsplash.jpg">
-
+<img src="https://github.com/Siddarth2709/Siddarth2709/blob/817e156b7b671a310f452147bff8e5ab3e55145a/fab-lentz-mRMQwK513hY-unsplash.jpg">
 
 
 **Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Siddarth2709) represents my journey towards developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in Android native,Python,,Java,,JS,React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Mysql, mongodb.
