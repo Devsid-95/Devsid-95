@@ -1,13 +1,13 @@
-### Hi there, I'm Siddarth A 👋
+## Hello folks!,Sid Here  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a Developer!!
+
+**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Siddarth2709) represents my journey towards developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in Android native,Python,,Java,,JS,React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Mysql, mongodb.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on My thesis
 - 🌱 I’m currently learning Everythig
 - 👯 I’m looking to collaborate with other Developers
-- 🤔 I’m looking for help with ...
 - 🥅 2021 : goal is to Contirbute to the Open Source Project
 - 💬 Ask me about Techie Things 
 
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on** 
 
-<img align="left" alt="https://github.com/Siddarth2709" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="https://twitter.com/Twin__Bwoy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="https://www.linkedin.com/in/siddharth-a-52bb95161/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="https://www.instagram.com/__wakeup.sid__/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
