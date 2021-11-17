@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My thesis
+- 🔭 I’m currently working on My University Project on Bioinformatics
 - 🌱 I’m currently learning Everythig
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 : goal is to Contirbute to the Open Source Project
