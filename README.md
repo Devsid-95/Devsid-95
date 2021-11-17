@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Techie Things 
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love to watch TV Series,Listen to Music,Learn to Code,
+- ⚡ Fun fact: I Love to watch TV Series,Listen to Music,Learn to Code,Photography
 
 <br />
 
