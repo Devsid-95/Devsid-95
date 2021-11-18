@@ -6,7 +6,7 @@
 
 
 
-**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Siddarth2709) represents my journey towards being a developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in Android native, Python, Java, JS, React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database we use Firebase, Mysql, mongodb.
+**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Siddarth2709) represents my journey towards being a developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in Android native, Python, Java, JS, React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database I use Firebase,Mongodb.
 
 Here are some ideas to get you started:
 
