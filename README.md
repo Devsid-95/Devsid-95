@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on** 
 
-<img align="left" alt="https://twitter.com/Twin__Bwoy" width="22px" src="https://img.icons8.com/color/50/000000/twitter--v2.png" />
-<img align="left" alt="https://www.linkedin.com/in/siddharth-a-52bb95161/" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />
-<img align="left" alt="https://www.instagram.com/__wakeup.sid__/" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />
-<img align="left" alt="https://t.me/Twin_Bwoy/" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/>
+<a href="https://twitter.com/Twin__Bwoy"> <img align="left" alt="Sid's Twitter Account" width="22px" src="https://img.icons8.com/color/50/000000/twitter--v2.png" />
+<a href="https://www.linkedin.com/in/siddharth-a-52bb95161/"> <img align="left" alt="Sid's LinkedIn Account" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />
+<a href="https://www.instagram.com/__wakeup.sid__/"> <img align="left" alt="Sid'sInstgram Account" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />
+<a href = "https://t.me/Twin_Bwoy/"> <img align="left" alt="Sid's Telegram Account" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/>
 
 
 <br />
