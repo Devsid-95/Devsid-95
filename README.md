@@ -29,7 +29,7 @@ Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on**
 
 <a href="https://twitter.com/Twin__Bwoy"> <img align="left" alt="Sid's Twitter Account" width="22px" src="https://img.icons8.com/color/50/000000/twitter--v2.png" />
 <a href="https://www.linkedin.com/in/siddharth-a-52bb95161/"> <img align="left" alt="Sid's LinkedIn Account" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />
-<a href="https://www.instagram.com/__wakeup.sid__/"> <img align="left" alt="Sid'sInstgram Account" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />
+<a href="https://www.instagram.com/__wakeup.sid__/"> <img align="left" alt="Sid'sInstgram Account" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 <a href = "https://t.me/Twin_Bwoy/"> <img align="left" alt="Sid's Telegram Account" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/>
 
 
