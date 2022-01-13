@@ -10,8 +10,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My University Project on Bioinformatics
-- 🌱 I’m currently learning Everythig
+- 🔭 I’m currently working on My University Project on Statistical Methods for Machine Learning
+- 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 : goal is to Contirbute to the Open Source Project
 - 💬 Ask me about Techie Things 
