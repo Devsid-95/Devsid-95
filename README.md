@@ -1,18 +1,18 @@
-## Hello folks! Sid Here,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello folks! Sid Here,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsiddarth2709&label=Views&color=blueviolet" alt="Siddarth2709" /> </p>
 <br />
-<img src="https://github.com/Siddarth2709/Siddarth2709/blob/main/victor-o-zkqbOeZQI-unsplash.jpg">
+<img src="https://github.com/Siddarth2709/Siddarth2709/blob/main/victor-o-zkqbOeZQI-unsplash.jpg" width="1800px" height="600px">
 
 
 
 
-**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Siddarth2709) represents my journey towards being a developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in Android native, Python, Java, JS, React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Python, Nodejs) for database I use Firebase,Mongodb.
+**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Siddarth2709) represents my journey towards being a developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in  Python, Java, JS, React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Nodejs) for database I use Firebase,Mongodb.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My University Project on Statistical Methods for Machine Learning
-- 🌱 I’m currently learning Everything
+- 🔭 I’m currently working on My University Thesis (Bioinformatics)
+- 🌱 I’m currently learning Spotify-API,word2Vec,tSNE,Deep Learning models !
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 : goal is to Contirbute to the Open Source Project
 - 💬 Ask me about Techie Things 
