@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsiddarth2709&label=Views&color=blueviolet" alt="Siddarth2709" /> </p>
 <br />
-<img src="https://github.com/Siddarth2709/Siddarth2709/blob/main/victor-o-zkqbOeZQI-unsplash.jpg" width="1800px" height="600px">
 
 
 
