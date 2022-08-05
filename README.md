@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on My University Thesis (Bigdata,Machine Learning)
 - 🌱 I’m currently learning Spotify-API,word2Vec,tSNE,Deep Learning models !
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 : goal is to Contirbute to the Open Source Project
-- 💬 Ask me about Techie Things 
+- 🥅 2022 : goal is to Contirbute to the Open Source Project
+- 💬 Share me about Techie Things 
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love to watch TV Series,Listen to Music,Learn to Code,Love Photography!
