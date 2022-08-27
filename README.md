@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Reach me:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddarth2709&show_icons=true) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Siddarth2709?cardType=octocat&theme=dark)](https://git.io/awesome-stats-card)
 
 Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on** 
 
