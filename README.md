@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on My University Thesis (Bigdata,Machine Learning)
 - 🌱 I’m currently learning Spotify-API,word2Vec,tSNE,Deep Learning models !
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 : goal is to Contirbute to the Open Source Project
+- 🥅 2022 : goal is to Successfully complete my thesis. 
 - 💬 Share me about Techie Things 
 
 - 😄 Pronouns: He/Him
