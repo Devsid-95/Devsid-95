@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ### Reach me:
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Siddarth2709?cardType=octocat&theme=dark)](https://git.io/awesome-stats-card)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito?cardType=octocat&theme=dark)]
+
 
 Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on** 
 
