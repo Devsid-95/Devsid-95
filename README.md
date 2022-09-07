@@ -2,7 +2,7 @@
 
 
 
-<p align="center"> <video src="https://github.com/Siddarth2709/Siddarth2709/blob/main/OTKgDSt.mp4" width="150px">
+<p align="center"> <img src="https://github.com/Siddarth2709/Siddarth2709/blob/main/sid.gif" width="150px">
 
 
 
