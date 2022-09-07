@@ -1,7 +1,7 @@
 ## Hello folks! Sid Here   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
 
-<p align="center"> <img src ="https://user-images.githubusercontent.com/60490496/188995543-9c8fab3d-45d6-49e0-9157-c2f816a99d0c.png">
+<p align="center"> <img src ="">
 
 
 
