@@ -1,6 +1,11 @@
 ## Hello folks! Sid Here,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
-<img src="https://github.com/Siddarth2709/Siddarth2709/blob/main/OTKgDSt.mp4">
+
+
+<img src="https://github.com/Siddarth2709/Siddarth2709/blob/main/OTKgDSt.gif" width="150px" >
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsiddarth2709&label=Views&color=blueviolet" alt="Siddarth2709" /> </p>
 <br />
