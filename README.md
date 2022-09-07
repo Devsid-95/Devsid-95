@@ -1,8 +1,8 @@
-## Hello folks! Sid Here,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
+## Hello folks! Sid Here   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
 
 
-<img src="https://github.com/Siddarth2709/Siddarth2709/blob/main/OTKgDSt.mp4" width="150px" >
+<p align="center"> <video src="https://github.com/Siddarth2709/Siddarth2709/blob/main/OTKgDSt.mp4" width="150px">
 
 
 
