@@ -1,7 +1,7 @@
 ## Hello folks! Sid Here   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
 
-<p align="center"> <img src ="https://github.com/Devsid-95/Siddarth2709/blob/main/Sid.gif?raw=true">
+<p align="center"> <img src ="https://github.com/Devsid-95/Siddarth2709/blob/main/Sid.gif?raw=true" width="50px">
 
 
 
