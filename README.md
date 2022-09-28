@@ -4,13 +4,13 @@
 <p align="center"> <img src ="https://github.com/Devsid-95/Siddarth2709/blob/main/Sid.gif?raw=true" width="500px" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsiddarth2709&label=Views&color=blueviolet" alt="Siddarth2709" /> </p>
-<br />
+<br>
 
 
 ## Introduction 
 **Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Devsid-95) represents my journey towards being a developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in  Python, Java, JS, React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Nodejs) for database I use Firebase,Mongodb.
 
-<br/>
+<br>
 
 ## Here are some ideas to get you started
 
@@ -23,7 +23,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love to watch TV Series,Listen to Music,Learn to Code,Love Photography!
 
-<br />
+<br>
 
 ## Reach me:
 
@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/devsid95/"> <img align="left" alt="Sid's LinkedIn Account" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />
 <a href="https://www.instagram.com/__wakeup.sid__/"> <img align="left" alt="Sid's Instgram Account" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 <a href = "https://t.me/Twin_Bwoy/"> <img align="left" alt="Sid's Telegram Account" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/>
-<br />
+<br>
 <br>
 
 ## Languages and Tools:
@@ -56,7 +56,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
 />
-<br />
+<br>
   
 <br>
 <br>
