@@ -11,7 +11,7 @@
 **Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Devsid-95) represents my journey towards being a developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in  Python, Java, JS, React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Nodejs) for database I use Firebase,Mongodb.
 
 <br>
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on My University Thesis (Bigdata,Machine Learning)
 - 🌱 I’m currently learning Spotify-API,word2Vec,tSNE,Deep Learning models !
@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 <br />
 
-### Reach me:
+## Reach me:
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Siddarth2709?cardType=octocat&theme=dark)
 <br>
 
 
-Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on** 
+## You can **find me on** 
 
 <a href="https://www.linkedin.com/in/devsid95/"> <img align="left" alt="Sid's LinkedIn Account" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />
 <a href="https://www.instagram.com/__wakeup.sid__/"> <img align="left" alt="Sid's Instgram Account" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
@@ -38,7 +38,7 @@ Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on**
 <br />
 <br>
 
-### Languages and Tools:
+## Languages and Tools:
 
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -64,4 +64,5 @@ Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on**
 <br>
 <br>
 <br>
+  
 <div align="right"> Created with ❤️ By Siddarth! </div>
