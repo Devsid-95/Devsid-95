@@ -27,7 +27,8 @@
 
 ## Reach me:
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Siddarth2709?cardType=octocat&theme=dark)
+![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=Devsid-95&theme=dark&show_icons=true)
+
 <br>
 
 
