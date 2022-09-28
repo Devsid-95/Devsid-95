@@ -10,8 +10,9 @@
 ## Introduction 
 **Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Devsid-95) represents my journey towards being a developer :running_man: - I have over 2 years of experience as a Web Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in  Python, Java, JS, React Native, AI, DL, ML, Data Science and Web development(Reactjs, Django, Nodejs) for database I use Firebase,Mongodb.
 
-<br>
-## Here are some ideas to get you started:
+<br/>
+
+## Here are some ideas to get you started
 
 - 🔭 I’m currently working on My University Thesis (Bigdata,Machine Learning)
 - 🌱 I’m currently learning Spotify-API,word2Vec,tSNE,Deep Learning models !
