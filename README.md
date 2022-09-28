@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 ### Reach me:
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Siddarth2709?cardType=octocat&theme=dark)
-
+<br>
 
 Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on** 
 
-<a href="https://www.linkedin.com/in/siddharth-a-52bb95161/"> <img align="left" alt="Sid's LinkedIn Account" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />
-<a href="https://www.instagram.com/__wakeup.sid__/"> <img align="left" alt="Sid'sInstgram Account" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
+<a href="https://www.linkedin.com/in/devsid95/"> <img align="left" alt="Sid's LinkedIn Account" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />
+<a href="https://www.instagram.com/__wakeup.sid__/"> <img align="left" alt="Sid's Instgram Account" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 <a href = "https://t.me/Twin_Bwoy/"> <img align="left" alt="Sid's Telegram Account" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/>
 <br />
+  <br>
 
 ### Languages and Tools:
 
