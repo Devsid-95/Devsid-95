@@ -55,4 +55,4 @@ Outside of [GitHub](https://github.com/siddarth2709/), You can **find me on**
 <br>
 <br>
 <br>
-<div align="center"> Created with ❤️ By Siddarth! </div>
+<div align="right"> Created with ❤️ By Siddarth! </div>
