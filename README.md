@@ -35,7 +35,7 @@
 ## You can **find me on** 
 
 <a href="https://www.linkedin.com/in/devsid95/"> <img align="left" alt="Sid's LinkedIn Account" width="22px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />
-<a href="https://www.instagram.com/__wakeup.sid__/"> <img align="left" alt="Sid's Instgram Account" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
+<a href="https://www.instagram.com/dev.sid95/"> <img align="left" alt="Sid's Instgram Account" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 <a href = "https://t.me/Twin_Bwoy/"> <img align="left" alt="Sid's Telegram Account" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/>
 <br>
 <br>
