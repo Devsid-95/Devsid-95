@@ -15,9 +15,9 @@
 ## Here are some ideas to get you started
 
 - 🔭 I’m currently working on My .................................  !
-- 🌱 I’m currently learning Spotify-API,word2Vec,tSNE,Deep Learning models !
+- 🌱 I’m currently learning........... 
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2023 : goal is to Work in Software Company. 
+- 🥅 2023 : Goal is to Work in Software Company. 
 - 💬 Share me about Techie Things 
 
 - 😄 Pronouns: He/Him
