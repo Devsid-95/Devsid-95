@@ -8,20 +8,20 @@
 
 
 ## Introduction 
-**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Devsid-95) represents my journey towards being a developer :running_man: - I have over 2 years of experience as a Developer. I am a computer scientist by profession and I'm a passionate Developer. I have a Intermediate Level of Knowledge in  Python, Java, JS, React Native, AI, DL, ML, Data Science and Web development(Reactjs, Nodejs) for database I use Mongodb,MySQL.
+**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Devsid-95) represent my journey towards being a developer :running_man: - I have over 3 years of experience as a Developer. I am a computer scientist by profession and I'm a passionate Developer. I have an Intermediate Level of Knowledge in  Python, Java, JS, React Native, AI, DL, ML, Data Science, and Web development(Reactjs, Nodejs) for databases I use MongoDB, MySQL.
 
 <br>
 
 ## Here are some ideas to get you started
 
-- 🔭 I’m currently working on My .................................  !
+- 🔭 I’m currently working on My ................................. !
 - 🌱 I’m currently learning........... 
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2023 : Goal is to Work in Software Company. 
-- 💬 Share me about Techie Things 
+- 🥅 2023: The goal is to Work in a Software Company. 
+- 💬 Share with me about Techie Things 
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love to watch TV Series,Listen to Music,Learn to Code,Love Photography!
+- ⚡ Fun fact: I Love to watch TV Series, Listen to Music, Learn to Code, and Love Photography!
 
 <br>
 
