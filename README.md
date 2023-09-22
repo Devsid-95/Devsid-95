@@ -14,8 +14,8 @@
 
 ## Here are some ideas to get you started
 
-- 🔭 I’m currently working on My ................................. !
-- 🌱 I’m currently learning........... 
+- 🔭 I’m currently working on My .................................!
+- 🌱 I’m currently learning  .....................................! 
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2023: The goal is to Work in a Software Company. 
 - 💬 Share with me about Techie Things 
