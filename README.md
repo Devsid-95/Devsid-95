@@ -14,8 +14,8 @@
 
 ## Here are some ideas to get you started
 
-- 🔭 I’m currently working on My .................................!
-- 🌱 I’m currently learning  .....................................! 
+- 🔭 I’m currently working on My ............!
+- 🌱 I’m currently learning  Techniques in AI! 
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2023: The goal is to Work in a Software Company. 
 - 💬 Share with me about Techie Things 
@@ -25,10 +25,13 @@
 
 <br>
 
-## Reach me:
+## 📊 My Stats:
+![Devsid-95's Stats](https://github-readme-stats.vercel.app/api?username=Devsid-95&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 
-![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=Devsid-95&theme=dark&show_icons=true)
 
+
+## Most Used Languages:
+![Devsid-95's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsid-95&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 <br>
 
 
