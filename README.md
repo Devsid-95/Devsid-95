@@ -7,8 +7,8 @@
 <br>
 
 
-## Introduction 
-**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Devsid-95) represent my journey towards being a developer :running_man: - I have over 3 years of experience as a Developer. I am a computer scientist by profession and I'm a passionate Developer. I have an Intermediate Level of Knowledge in  Python, Java, JS, React Native, AI, DL, ML, Data Science, and Web development(Reactjs, Nodejs) for databases I use MongoDB, MySQL.
+## ❤ About Me 
+**Welcome to my Github Profile!** :star_struck: The green dots on my [**GitHub** profile](https://github.com/Devsid-95) represent my journey towards being a developer :running_man: - I have over 4 years of experience as a Developer. I am a computer scientist by profession and I'm a passionate Developer. I have an Intermediate Level of Knowledge in  Python, Java, JS, AI, Natural Language Processing, Machine Learning, Deep Learning, Data Science, and Web development(Reactjs, Nodejs) for databases I use MongoDB and MySQL and Cloud Technologies Like AWS.
 
 <br>
 
@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on My ............!
 - 🌱 I’m currently learning  Techniques in AI! 
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2023: The goal is to Work in a Software Company. 
+- 🥅 2023: The goal is to ............ 
 - 💬 Share with me about Techie Things 
 
 - 😄 Pronouns: He/Him
