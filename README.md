@@ -14,14 +14,13 @@
 
 ## Here are some ideas to get you started
 
-- 🔭 I’m currently working on My ............!
-- 🌱 I’m currently learning  Techniques in AI! 
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2023: The goal is to ............ 
+- 🔭 I'm currently working on exciting projects that combine my interests in AI, machine learning, and tech.!
+- 🌱 Learning advanced AI and exploring real-world uses to stay ahead in tech.! 
+- 👯 I'm always open to collaborating with developers and data scientists, especially in areas like AI, ML, and data-driven solutions. If you're interested in working together, feel free to reach out!
+- 🥅 2025: My primary goal is to make significant contributions to AI advancements, build impactful projects, and achieve expertise in machine learning and data science by 2025.
 - 💬 Share with me about Techie Things 
-
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love to watch TV Series, Listen to Music, Learn to Code, and Love Photography!
+- ⚡ Fun fact: When I’m not coding, you’ll find me watching my favorite TV series, jamming to good music, capturing moments through photography, or exploring new skills in coding!
 
 <br>
 
